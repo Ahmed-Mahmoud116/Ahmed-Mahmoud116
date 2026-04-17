@@ -23,6 +23,6 @@ I'm a **Computer Science Student** passionate about software development and pro
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mahmoud116&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoud2007ahmed@gmail.com)
 
 
